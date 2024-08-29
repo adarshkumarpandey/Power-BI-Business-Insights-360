@@ -1,124 +1,46 @@
-# Business Insights 360
+## Project Summary: Power BI Dashboard for AtliQ Hardware
 
-## Project Overview
+**Project Goal:**
 
-AtliQ Hardware is growing quickly and is now using Power BI for the first time to stay ahead of competitors and make data-driven decisions. This project aims to provide stakeholders with answers across various areas, including finance, sales, marketing, and supply chain.
+To provide AtliQ Hardware with a comprehensive Power BI dashboard for data-driven decision-making across finance, sales, marketing, and supply chain. This project aims to help the company stay competitive and gain insights into its operations.
 
-This project is part of Data Analytics Bootcamp 3.0 - Power BI for data analysis by Code Basics. 
+**Key Deliverables:**
 
-[Live Report Link](https://project.novypro.com/fhgF2U)
+* **Dashboard Development:** Creation of interactive dashboards using Power BI to visualize key metrics and trends.
+* **Data Analysis:** Utilization of SQL, DAX, and data modeling techniques to extract insights from the provided data.
+* **Business Intelligence:** Development of reports and visualizations to answer specific business questions and inform decision-making.
 
-## Tools Used
+**Tools and Techniques:**
 
-- SQL
-- Power BI Desktop
-- Excel
-- DAX language
-- DAX studio (for optimizing the report)
+* **SQL:** Used to extract data from the MySQL database.
+* **Power BI Desktop:** Employed for dashboard creation, data modeling, and DAX calculations.
+* **DAX:** Utilized to create calculated columns, measures, and perform complex data analysis.
+* **Data Modeling:** Implemented to establish relationships between tables and optimize query performance.
+* **Power BI Services:** Utilized for publishing and sharing reports, setting up data refresh, and managing user access.
 
-## Power BI techniques Learnt
+**Business Insights:**
 
-- What are all the questions should be asked before staring the project
-- Creating calculated columns
-- creating measure using DAX language
-- Data modeling
-- Using Bookmarks to switch between two visuals
-- Page navigation with buttons
-- Using divide function to prevent zero division errors
-- creating date table using m language
-- Dynamic titles based on the applied filters
-- Using KPI indicators
-- Conditional formatting the values in visuals using icons or background color
-- Data validation techniques
-- Power BI services
-- Publishing reports to Power BI services
-- Setting up personal gateway to set up the auto refresh of data
-- Power BI App creation
-- Collaboration, workspace, access permissions in Power BI services
+* **Financial Analysis:** Analysis of gross price, pre-invoice deductions, post-invoice deductions, net invoice sale, gross margin, net sales, net profit, COGC, and YTD/YTG metrics.
+* **Sales Analysis:** Analysis of sales performance by retailer, direct, and distributor channels.
+* **Marketing Analysis:** Insights into marketing campaigns and their impact on sales.
+* **Supply Chain Analysis:** Analysis of supply chain efficiency, inventory levels, and cost optimization.
 
-## Domain Knowledge
+**Project Outcomes:**
 
-- Finance
-- Sales
-- Marketing
-- Supply Chain 
+* **Improved Decision-Making:** Enabled data-driven decision-making based on actionable insights.
+* **Enhanced Efficiency:** Streamlined processes and identified areas for optimization.
+* **Competitive Advantage:** Gained a competitive edge by leveraging data-driven insights.
 
-## DAX Functions
+**Key Challenges and Solutions:**
 
-- CALCULATE ( )
-- DIVIDE ( )
-- FILTER ( )
-- SWITCH ( )
+* **Data Quality:** Addressed data quality issues through data cleaning and validation techniques.
+* **Performance Optimization:** Optimized dashboard performance using techniques like calculated columns, measures, and data modeling.
+* **Stakeholder Communication:** Ensured effective communication with stakeholders throughout the project to align expectations and address concerns.
 
+**Future Enhancements:**
 
-## Business related terms
+* **Predictive Analytics:** Explore incorporating predictive analytics models to forecast future trends.
+* **Advanced Visualization:** Experiment with advanced visualization techniques to enhance data storytelling.
+* **Integration with Other Systems:** Integrate the Power BI dashboard with other systems to enable seamless data flow.
 
-- Gross price
-- Pre-invoice deductions
-- Post-Invoice deductions
-- Net Invoice sale
-- Gross Margin
-- Net sales
-- Net profit
-- COGC - cost of goods sold
-- YTD - Year to Date
-- YTG - Year to Go
-- Direct
-- Retailer
-- Distributors
-- Consumer
-
-## Company’s background
-
-AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
-
-- Retailers
-- Direct
-- Distributors
-
-Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry. 
-
-Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
-
-### Questions to ask before starting with dashboard
-
-- What is the objective of building this PowerBi dashboard?
-- In what terms the success of this project will be measured?
-- What will be time dead-line of the project?
-- do the stakeholders expecting pre-view before the actual release?
-- What are all the hopes stakeholders have out of this project?
-- what are all fears the stakeholder have in terms of building this dashboard?
-- Who are all will be using this dashboard and for what purpose?
-- what are all expectation the stakeholders have, by the completion of this project?
-- What can go wrong while building this project?
-- what are all the resources/ data needed to build this dashboard?
-- is there any inputs from stakeholders in terms of design and views of the dashboard?
-
-After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
-
-## Importing data into PowerBi
-
-- As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
-
-
-
-### Dashboard designing
-
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
-
-## Home view
-
-In Home view, all the views button will be available. User will land on specific view page by clicking the button 
-
-- Info
-- Finance View
-- Sales View
-- Marketing View
-- Supply chain View
-- Executive View
-- Stakeholder Request
-- Support
-
-## Project Outcome
-
-By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+**Overall, this project successfully delivered a valuable Power BI dashboard that empowers AtliQ Hardware to make informed decisions and drive business growth.**
