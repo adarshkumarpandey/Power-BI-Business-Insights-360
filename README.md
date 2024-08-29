@@ -4,6 +4,8 @@
 
 To provide AtliQ Hardware with a comprehensive Power BI dashboard for data-driven decision-making across finance, sales, marketing, and supply chain. This project aims to help the company stay competitive and gain insights into its operations.
 
+[Live Report Link](https://project.novypro.com/fhgF2U)
+
 **Key Deliverables:**
 
 * **Dashboard Development:** Creation of interactive dashboards using Power BI to visualize key metrics and trends.
